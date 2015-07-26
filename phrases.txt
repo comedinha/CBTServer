@@ -1,57 +1,57 @@
-	"Ao doar para o servidor você estará contribuindo para que ele fique online.",
-	"Nos estamos muito felizes de ter você em nosso servidor :)",
-	"Ao doar para o servidor você pode comprar players models exclusivos.",
-	"Ao doar para o servidor você pode utilizar alguns comandos exclusivos como votekick.",
-	"Sempre que não houver alguém da staff o karma minimo fica em 700.",
-	"O CBT Server é amor :3",
-	"O Comedinha é o dono do servidor :v",
-	"Doe para o servidor e salve o mundo \o",
-	"'Um grande e desorganizado script, um grande bug. Um pequeno e organizado script, uma grande diferença.' Carvalho, Bruno",
-	"Doando 10 reais você já faz a diferença!",
-	"O servidor é feito com muito amor e carinho <3",
-	"As regras do servidor são feitas para que sejamos organizados :3",
-	"Ofender em um report pode torna-lo inválido.",
-	"Para ser um membro da equipe você deve seguir as regras e ajudar os outros :)",
-	"Power round é um round especial que acontece toda vez antes de trocar de mapa, ele foge as regras normais do TTT mas é bem detalhado no que deve-se fazer.",
-	"Quando você morre você pode jogar deathmatch, !dm é o que você deve digitar no chat.",
-	"Para reportar digite em nosso chat !report, para denunciar digite !denunciar",
-	"Texturas rosas pode indicar que lhe falta o CS, temos um tutorial se digitar no chat !textures que pode corrir.",
-	"O download está lento? Procure o grupo do CBT e encontre nosso pacote de models.",
-	"O servidor está cheio de errors? digite !models no chat e isso pode te ajudar.",
-	"Quando detetive ou traidor, aperte C para abrir a loja especial.",
-	"Apertar W duas vezes rapidamente te faz correr mais rápido.",
-	"Você tem uma stamina ao lado das barras e apertando duas vezes W você pode correr mais rápido.",
-	"No specdm, a stamina é infinita.",
-	"Andar com objetos que podem matar outras pessoas pode lhe dar KOS.",
-	"KOS é como um aviso para os outros matarem aquela pessoa.",
-	"A função do detetive é descobrir quem é o traidor e mata-lo.",
-	"Para usar o DNA Scanner você deve clicar com o botão esquerdo em algum objeto que tenha DNA.",
-	"Para saber as regras completas do servidor basta digitar !regras no chat.",
-	"O radar é um ótimo equipamento para detetives e traidores.",
-	"Como traidor, tente ser discreto e procure alvos fáceis.",
-	"Como detetive, sempre procure DNA.",
-	"O detetive só pode te obrigar a clicar no testador portátil quando a partida já tem mais de 1 minuto.",
-	"Ter uma boa mira irá te fazer um exelente jogador, tente acertar cabeças.",
-	"Como traidor, ao matar o detetive você irá ganhar pontos na loja especial.",
-	"O servidor tem pointshop, para abri-lo deve apertar F3 e ver as muitas coisas que podem ser compradas.",
-	"Ao apertar F3 você verá vários itens que podem custominizar seu personagem.",
-	"RDM é quando você mata alguém sem ter nenhuma prova de que esta pessoa fez algo errado.",
-	"Quando você faz RDM você perde karma. Quando há alguém da staff online o karma minimo fica em 450, se o servidor não tem ninguém ele passa a ser 700.",
-	"Quando alguém te segue você pode dar até 3 avisos (com intervalos regulares) e se ela não se afastar você pode mata-la.",
-	"Propkill é quando você mata alguém por meio de prop.",
-	"Prop é qualquer objeto que pode ser pego.",
-	"Se o detetive mandar você deve obedecer.",
-	"Quando você carrega um corpo, você pode ser considerado suspeito.",
-	"Prop surf é quando você flutua ou anda mais rápido com ajuda de props. Isto é proibido em nosso servidor!",
-	"Prop push é utilizar um prop para empurrar outros jogadores.",
-	"Se alguém estiver travando sua passagem você pode pedir para a pessoa se retirar, caso ela não saia você pode mata-la.",
-	"Abusar de bugs pode levar ao banimento!",
-	"Vários mapas tem easter eggs, e eles são proibidos em nosso servidor!",
-	"Para fazer uma guerra de crowbar os jogadores devem estar conscientes...",
-	"Ghosting é quando você está conversando com outros jogadores fora do servidor.",
-	"Ghosting é proibido!",
-	"Sprays indevidos ou pornográficos podem levar até ao banimento!",
-	"Você deve digitar em nosso chat !report somente para reportar coisas que podem ser controladas por toda a equipe (tais como RDM, KOS falso, ofenças e revange). Em caso de abuse digite !denunciar.",
-	"Jihad é uma bomba de mão muito perigosa, não é permitido ficar brincando com ela nem fazendo mic spam com o barulho dela.",
-	"Desrespeito não é tolerado por aqui, você pode ser até banido!",
-	"Evite trocar de nome durante a partida, isso irá te banir por 10 minutos. A equipe irá te desbanir, mas evite!"
+Ao doar para o servidor você estará contribuindo para que ele fique online.
+Nos estamos muito felizes de ter você em nosso servidor :)
+Ao doar para o servidor você pode comprar players models exclusivos.
+Ao doar para o servidor você pode utilizar alguns comandos exclusivos como votekick.
+Sempre que não houver alguém da staff o karma minimo fica em 700.
+O CBT Server é amor :3
+O Comedinha é o dono do servidor :v
+Doe para o servidor e salve o mundo \o
+'Um grande e desorganizado script, um grande bug. Um pequeno e organizado script, uma grande diferença.' Carvalho, Bruno
+Doando 10 reais você já faz a diferença!
+O servidor é feito com muito amor e carinho <3
+As regras do servidor são feitas para que sejamos organizados :3
+Ofender em um report pode torna-lo inválido.
+Para ser um membro da equipe você deve seguir as regras e ajudar os outros :)
+Power round é um round especial que acontece toda vez antes de trocar de mapa, ele foge as regras normais do TTT mas é bem detalhado no que deve-se fazer.
+Quando você morre você pode jogar deathmatch, !dm é o que você deve digitar no chat.
+Para reportar digite em nosso chat !report, para denunciar digite !denunciar
+Texturas rosas pode indicar que lhe falta o CS, temos um tutorial se digitar no chat !textures que pode corrir.
+O download está lento? Procure o grupo do CBT e encontre nosso pacote de models.
+O servidor está cheio de errors? digite !models no chat e isso pode te ajudar.
+Quando detetive ou traidor, aperte C para abrir a loja especial.
+Apertar W duas vezes rapidamente te faz correr mais rápido.
+Você tem uma stamina ao lado das barras e apertando duas vezes W você pode correr mais rápido.
+No specdm, a stamina é infinita.
+Andar com objetos que podem matar outras pessoas pode lhe dar KOS.
+KOS é como um aviso para os outros matarem aquela pessoa.
+A função do detetive é descobrir quem é o traidor e mata-lo.
+Para usar o DNA Scanner você deve clicar com o botão esquerdo em algum objeto que tenha DNA.
+Para saber as regras completas do servidor basta digitar !regras no chat.
+O radar é um ótimo equipamento para detetives e traidores.
+Como traidor, tente ser discreto e procure alvos fáceis.
+Como detetive, sempre procure DNA.
+O detetive só pode te obrigar a clicar no testador portátil quando a partida já tem mais de 1 minuto.
+Ter uma boa mira irá te fazer um exelente jogador, tente acertar cabeças.
+Como traidor, ao matar o detetive você irá ganhar pontos na loja especial.
+O servidor tem pointshop, para abri-lo deve apertar F3 e ver as muitas coisas que podem ser compradas.
+Ao apertar F3 você verá vários itens que podem custominizar seu personagem.
+RDM é quando você mata alguém sem ter nenhuma prova de que esta pessoa fez algo errado.
+Quando você faz RDM você perde karma. Quando há alguém da staff online o karma minimo fica em 450, se o servidor não tem ninguém ele passa a ser 700.
+Quando alguém te segue você pode dar até 3 avisos (com intervalos regulares) e se ela não se afastar você pode mata-la.
+Propkill é quando você mata alguém por meio de prop.
+Prop é qualquer objeto que pode ser pego.
+Se o detetive mandar você deve obedecer.
+Quando você carrega um corpo, você pode ser considerado suspeito.
+Prop surf é quando você flutua ou anda mais rápido com ajuda de props. Isto é proibido em nosso servidor!
+Prop push é utilizar um prop para empurrar outros jogadores.
+Se alguém estiver travando sua passagem você pode pedir para a pessoa se retirar, caso ela não saia você pode mata-la.
+Abusar de bugs pode levar ao banimento!
+Vários mapas tem easter eggs, e eles são proibidos em nosso servidor!
+Para fazer uma guerra de crowbar os jogadores devem estar conscientes...
+Ghosting é quando você está conversando com outros jogadores fora do servidor.
+Ghosting é proibido!
+Sprays indevidos ou pornográficos podem levar até ao banimento!
+Você deve digitar em nosso chat !report somente para reportar coisas que podem ser controladas por toda a equipe (tais como RDM, KOS falso, ofenças e revange). Em caso de abuse digite !denunciar.
+Jihad é uma bomba de mão muito perigosa, não é permitido ficar brincando com ela nem fazendo mic spam com o barulho dela.
+Desrespeito não é tolerado por aqui, você pode ser até banido!
+Evite trocar de nome durante a partida, isso irá te banir por 10 minutos. A equipe irá te desbanir, mas evite!
