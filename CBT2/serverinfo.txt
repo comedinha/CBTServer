@@ -27,7 +27,7 @@ Para saber as regras completas do servidor basta digitar !regras no chat.
 O radar é um ótimo equipamento para detetives e traidores.
 Como traidor, tente ser discreto e procure alvos fáceis.
 Como detetive, sempre procure DNA.
-Ter uma boa mira irá te fazer um exelente jogador. Tente acertar cabeças.
+Ter uma boa mira irá te fazer um excelente jogador. Tente acertar cabeças.
 Como traidor, ao matar o detetive você irá ganhar pontos na loja especial.
 RDM é quando você mata alguém sem ter nenhuma prova de que esta pessoa fez algo errado.
 Quando você faz RDM você perde karma. Quando há alguém da staff online o karma minimo fica em 550, se o servidor não tem ninguém ele passa a ser 750.
@@ -74,3 +74,5 @@ A pessoa que deu KOS pode retirá-lo quando quiser, mas ela fica responsável pe
 É proibido dar kos em detetive, quem fizer isso pode levar warn!
 Players que fizerem easter eggs que atrapalham/tiram o foco do jogo serão devidamente punidos baseado na gravidade do que fez.
 Se o jogador tiver um nome que não é possível ler, seja ofensivo, seja repetido ou atrapalhe algum sistema do jogo (como ninguém). Ele será auxiliado pela equipe a trocar de nome.
+A comunidade CBT surgiu dia 27 de agosto de 2014
+Antes de julgar alguém, você deve tentar descobrir o que realmente aconteceu.
