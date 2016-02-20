@@ -76,3 +76,4 @@ Players que fizerem easter eggs que atrapalham/tiram o foco do jogo serão devid
 Se o jogador tiver um nome que não é possível ler, seja ofensivo, seja repetido ou atrapalhe algum sistema do jogo (como ninguém). Ele será auxiliado pela equipe a trocar de nome.
 A comunidade CBT surgiu dia 27 de agosto de 2014
 Antes de julgar alguém, você deve tentar descobrir o que realmente aconteceu.
+Você pode dar livecheck se houver menos de 5 pessoas vivas (confirmado no tab) e o detetive estiver morto.
