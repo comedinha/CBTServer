@@ -17,12 +17,9 @@ Quando você morre você pode jogar deathmatch, !dm é o que você deve digitar 
 Para reportar digite em nosso chat !report, para denunciar digite !denunciar
 Texturas rosas pode indicar que lhe falta o CS, temos um tutorial se digitar no chat !textures que pode corrir.
 O download está lento? Procure o grupo do CBT e encontre nosso pacote de models.
-O servidor está cheio de errors? digite !models no chat e isso pode te ajudar.
+O servidor está cheio de "ERRORS" gigantes? digite !models no chat e isso pode te ajudar.
 Quando detetive ou traidor, aperte C para abrir a loja especial.
-Apertar W duas vezes rapidamente te faz correr mais rápido.
-Você tem uma stamina ao lado das barras e apertando duas vezes W você pode correr mais rápido.
-No specdm, a stamina é infinita.
-Andar com objetos que podem matar outras pessoas pode lhe dar KOS.
+Andar com objetos que podem prejudicar outras pessoas é motivo de KOS.
 KOS é como um aviso para os outros matarem aquela pessoa.
 A função do detetive é descobrir quem é o traidor e mata-lo.
 Para usar o DNA Scanner você deve clicar com o botão esquerdo em algum objeto que tenha DNA.
@@ -30,28 +27,50 @@ Para saber as regras completas do servidor basta digitar !regras no chat.
 O radar é um ótimo equipamento para detetives e traidores.
 Como traidor, tente ser discreto e procure alvos fáceis.
 Como detetive, sempre procure DNA.
-O detetive só pode te obrigar a clicar no testador portátil quando a partida já tem mais de 1 minuto.
-Ter uma boa mira irá te fazer um exelente jogador, tente acertar cabeças.
+Ter uma boa mira irá te fazer um exelente jogador. Tente acertar cabeças.
 Como traidor, ao matar o detetive você irá ganhar pontos na loja especial.
-O servidor tem pointshop, para abri-lo deve apertar F3 e ver as muitas coisas que podem ser compradas.
-Ao apertar F3 você verá vários itens que podem custominizar seu personagem.
 RDM é quando você mata alguém sem ter nenhuma prova de que esta pessoa fez algo errado.
-Quando você faz RDM você perde karma. Quando há alguém da staff online o karma minimo fica em 450, se o servidor não tem ninguém ele passa a ser 700.
+Quando você faz RDM você perde karma. Quando há alguém da staff online o karma minimo fica em 550, se o servidor não tem ninguém ele passa a ser 750.
 Quando alguém te segue você pode dar até 3 avisos (com intervalos regulares) e se ela não se afastar você pode mata-la.
 Propkill é quando você mata alguém por meio de prop.
 Prop é qualquer objeto que pode ser pego.
-Se o detetive mandar você deve obedecer.
+Se o detetive mandar você deve obedecer. (Existem exessões que podem ser lidas digitando !regras no chat)
 Quando você carrega um corpo, você pode ser considerado suspeito.
 Prop surf é quando você flutua ou anda mais rápido com ajuda de props. Isto é proibido em nosso servidor!
 Prop push é utilizar um prop para empurrar outros jogadores.
-Se alguém estiver travando sua passagem você pode pedir para a pessoa se retirar, caso ela não saia você pode mata-la.
+Se alguém estiver travando sua passagem você pode dar até três avisos (com intervalos regulares) para a pessoa se retirar, caso ela não saia você pode matá-la.
 Abusar de bugs pode levar ao banimento!
 Vários mapas tem easter eggs, e eles são proibidos em nosso servidor!
 Para fazer uma guerra de crowbar os jogadores devem estar conscientes...
-Ghosting é quando você está conversando com outros jogadores fora do servidor.
+Ghosting é quando você conversa sobre o jogo por outras maneiras além do jogo.
 Ghosting é proibido!
-Sprays indevidos ou pornográficos podem levar até ao banimento!
+Sprays indevidos ou pornográficos são proibidos e podem até levar ao banimento!
 Você deve digitar em nosso chat !report somente para reportar coisas que podem ser controladas por toda a equipe (tais como RDM, KOS falso, ofenças e revange). Em caso de abuse digite !denunciar.
 Jihad é uma bomba de mão muito perigosa, não é permitido ficar brincando com ela nem fazendo mic spam com o barulho dela.
 Desrespeito não é tolerado por aqui, você pode ser até banido!
-Evite trocar de nome durante a partida, isso irá te banir por 10 minutos. A equipe irá te desbanir, mas evite!
+Quando você troca de nome durante a partida você é kikado do servidor.
+Quando você joga granada perto de jogadores você é considerado suspeito.
+Ser considerado suspeito significa que podem usar golden gun em você!
+A golden gun só pode ser utilizada em um jogador suspeito ou quando faltam menos de 10 jogadores. Caso você se sinta injustiçado pode reportar e esperar que o outro tenha um motivo dentro das regras.
+O detetive não pode obrigar jogadores a usarem a golden gun.
+O !denunciar pode ser usado para denunciar abuses extra partidas, caso contrário digite !report
+Quebrar o tester é considerado KOS, quebrar antes da partida é motivo de slay.
+Um jogador toma um warn todas as vezes que comete algo contra as regras, 3 warns ativos acarreta em banimento de 1 dia.
+Um warn se torna inativo após ter sido tomado em 12 horas.
+A língua oficial do servidor é Português, pessoas de outras linguagens podem jogar contanto que sigam as regras.
+Camperar na sala do traidor não é permitido quando todos os traidores estão lá, depois de 1 minuto os mesmos estão sujeitos a slay. Inocentes podem camperar a vontade.
+Se você fica muito tempo mirando em pessoas irão poder atirar de golden gun em você!
+O servidor respeita o significado global de ofensa, cabe ao membro da equipe decidir a punição (caso aconteça).
+RDM pode ser classificado como atacar ou matar outros jogadores aleatoriamente
+RDM pode ser classificado como matar alguem que você suspeita
+RDM pode ser classificado como matar alguém por seguir você (Há exceções)
+RDM pode ser classificado como matar ou atacar alguém com prop
+Se vingar de alguém que te fez RDM pode dar uma punição pior do que quem cometeu o RDM tomou.
+Você não pode dar KOS baseado na arma da pessoa
+Você pode dar KOS se alguém te ataca aleatoriamente ou visivelmente ameaça te atacar (como atirar em sua direção)
+O traidor pode dar KOS em quem ele quiser para outros matarem.
+Assumir ser traidor é motivo de KOS!
+A pessoa que deu KOS pode retirá-lo quando quiser, mas ela fica responsável pelo rdm até 3 segundos após a retirada do KOS
+É proibido dar kos em detetive, quem fizer isso pode levar warn!
+Players que fizerem easter eggs que atrapalham/tiram o foco do jogo serão devidamente punidos baseado na gravidade do que fez.
+Se o jogador tiver um nome que não é possível ler, seja ofensivo, seja repetido ou atrapalhe algum sistema do jogo (como ninguém). Ele será auxiliado pela equipe a trocar de nome.
