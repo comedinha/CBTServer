@@ -1,0 +1,9 @@
+Se há alguém da equipe online o karma minimo é 550, caso não tenha ninguém ele passa a ser 700.
+Entre no nosso grupo: http://steamcommunity.com/groups/cbtserver ou digite !grupo
+Para trocar de mapa digite !rtv
+Quer denunciar alguém por ter feito algo errado extra damagelog? !denunciar
+Quer melhorar suas habilidades no TTT? Digite !guia
+Aprenda sobre o dano, fire-rate e outras estatisticas das armas digitando !armas.
+Ser um doador custa apenas 10 reais e ajuda muito o servidor. Digite !doar
+Seja um Doador. Digite !doar e ajude o servidor a ficar online!
+Texturas com problema? !textures, modelos com problemas? !models
