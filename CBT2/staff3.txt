@@ -1,4 +1,4 @@
 [MOD] Blame
 [MOD] Cortador
 [MOD] Cyanide
-[MOD] Global
+[MOD] Global Man
