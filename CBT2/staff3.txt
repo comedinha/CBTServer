@@ -1,4 +1,2 @@
-[MOD] Blame
-[MOD] Cortador
-[MOD] Cyanide
+[MOD] DarkNobrega
 [MOD] Desk
