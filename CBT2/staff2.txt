@@ -1,5 +1,4 @@
 [ADM] Caio
-[ADM] Ghost Hunter
-[ADM] Haunter
+[ADM] Cortador
 [ADM] Julia
 [ADM] Marcelo
