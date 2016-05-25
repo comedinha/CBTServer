@@ -1,4 +1,2 @@
-[ADM] Caio
-[ADM] Cortador
 [ADM] Julia
 [ADM] Marcelo
