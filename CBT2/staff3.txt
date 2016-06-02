@@ -1,2 +1,4 @@
 [MOD] Hero
+[MOD] Kledson
+[MOD] Snow
 [MOD] TicoMau
