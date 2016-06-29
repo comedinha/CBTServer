@@ -1,4 +1,5 @@
 [MOD] Hero
+[MOD] Kauan
 [MOD] Kledson
+[MOD] Mary
 [MOD] Snow
-[MOD] TicoMau
