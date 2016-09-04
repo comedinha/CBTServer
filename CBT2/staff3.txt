@@ -1,5 +1,6 @@
 [MOD] Hero
-[MOD] Kauan
+[MOD] Paranoic
+[MOD] SpwnX
 [MOD] Kledson
 [MOD] Mary
 [MOD] Snow
