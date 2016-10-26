@@ -7,4 +7,3 @@ Aprenda sobre o dano, fire-rate e outras estatisticas das armas digitando !armas
 Ser um doador custa apenas 10 reais e ajuda muito o servidor. Digite !doar
 Seja um Doador. Digite !doar e ajude o servidor a ficar online!
 Texturas com problema? !textures, modelos com problemas? !models
-Promoção CBT : Ao comprar o donator no !doar, você ira ganhar o dobro de meses que você comprou ( mas é por pouco tempo )
