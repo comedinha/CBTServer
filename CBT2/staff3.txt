@@ -1,5 +1,3 @@
 [MOD] SpwnX
-[MOD] Kledson
-[MOD] Salamandra
 [MOD] Snow
 [MOD] Your
