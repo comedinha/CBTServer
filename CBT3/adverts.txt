@@ -4,3 +4,5 @@ Quer denunciar alguém por ter feito algo errado extra damagelog? !denunciar
 Ser um doador custa apenas 10 reais e ajuda muito o servidor. Digite !doar
 Seja um Doador. Digite !doar e ajude o servidor a ficar online!
 Texturas com problema? !textures, modelos com problemas? !models
+Você pode abrir o Pointshop apertando F3!
+Você pode comprar PBoosters e assim pular mais alto ou ter double jump!
