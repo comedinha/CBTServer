@@ -1,2 +1,3 @@
 [MOD] Classic
 [MOD] Diedich
+[MOD] Doctor
